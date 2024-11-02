@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshat Opam aka @northstar-0310
 - 👀 I’m interested in development,coding,problem solving.
-- 🌱 I’m currently learning MERN stack and python and trying to improve my skills.
+- 🌱 I’m currently learning Java, Spring Boot and python and trying to improve my skills.
 - 💞️ I’m looking to collaborate on exciting and impactful projects.
 - 📫 I am always an email away - akshat.opam0310@gmail.com
 - 😄 Pronouns: He/Him
