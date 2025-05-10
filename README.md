@@ -21,7 +21,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,cpp,ts,js,nodejs,react,postgres,mysql,mongodb,git,github,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,cpp,ts,react,postgres,mysql,mongodb,git,github,docker,vscode&theme=dark" />
 </p>
 
 ---
@@ -53,8 +53,8 @@
 
 <p align="center">
   <a href="mailto:akshat.opam0310@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/akshat-opam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/northstar-0310" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akshat-opam/" target="https://www.linkedin.com/in/akshat-opam-9ab07715a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/northstar-0310" target="https://github.com/northstar-0310"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
