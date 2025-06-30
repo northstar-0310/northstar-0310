@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Problem Solver | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=F70A8D&width=435&lines=Backend+Developer;Spring+Boot+%7C+Java+%7C+PostgreSQL;Python+%7C+Data+Science+%7C+AI;Clean+Code+Enthusiast+%F0%9F%94%A5;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=F70A8D&width=435&lines=Fullstack+Developer;Spring+Boot+%7C+Java+%7C+PostgreSQL;Python+%7C+Data+Science+%7C+AI;Clean+Code+Enthusiast+%F0%9F%94%A5;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
